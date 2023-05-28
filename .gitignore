@@ -404,3 +404,4 @@ FodyWeavers.xsd
 compose.yml
 *.db
 bin/*
+.vscode/
